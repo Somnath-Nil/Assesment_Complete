@@ -1,0 +1,14 @@
+.title{
+  font-size: smaller;
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.title:hover{
+  color: red;
+}
+
+.title.h2{
+  color: aqua;
+}
